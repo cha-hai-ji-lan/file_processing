@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23f9db13-463f-45b6-a51a-8611302a1d95" name="更改" comment="file processing" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+        <option value="SQL File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cha-hai-ji-lan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cha-hai-ji-lan/file_processing.git&quot;,
+    &quot;accountId&quot;: &quot;9e23c686-32e2-4df7-940c-4d8590986177&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2m1fx43SdXHQniI4Q9EHA2UnyBY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.__init__.executor": "Run",
+    "Python.basicFileProcessing.executor": "Run",
+    "Python.constantSpaces.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.moduleIntegration.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/my_code/PyProject/pythonProject_1/fileProcessing/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Python",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_code\PyProject\pythonProject_1\fileProcessing\assets" />
+      <recent name="D:\my_code\PyProject\pythonProject_1\fileProcessing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my_code\PyProject\pythonProject_1\fileProcessing\.outputs\jsonLog" />
+      <recent name="D:\my_code\PyProject\pythonProject_1\fileProcessing\.outputs" />
+      <recent name="D:\my_code\PyProject\pythonProject_1\fileProcessing\tempConstant" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="basicFileProcessing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fileProcessing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dependency" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dependency/basicFileProcessing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.basicFileProcessing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19072.16" />
+        <option value="bundled-python-sdk-8336bb23522e-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19072.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="23f9db13-463f-45b6-a51a-8611302a1d95" name="更改" comment="" />
+      <created>1726249245342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726249245342</updated>
+      <workItem from="1726249246684" duration="5044000" />
+      <workItem from="1726280589091" duration="5244000" />
+      <workItem from="1726291372637" duration="672000" />
+      <workItem from="1726292055311" duration="15607000" />
+      <workItem from="1726330259044" duration="9259000" />
+      <workItem from="1726366575990" duration="7939000" />
+      <workItem from="1726388070654" duration="15410000" />
+      <workItem from="1726443527415" duration="4747000" />
+      <workItem from="1726449585398" duration="1029000" />
+      <workItem from="1726472270999" duration="2103000" />
+      <workItem from="1726481215273" duration="4580000" />
+      <workItem from="1726486763104" duration="1878000" />
+      <workItem from="1726490022304" duration="9282000" />
+      <workItem from="1726540663288" duration="4776000" />
+      <workItem from="1726758733642" duration="1219000" />
+      <workItem from="1726820407376" duration="363000" />
+      <workItem from="1726928957105" duration="2049000" />
+      <workItem from="1727020060452" duration="1066000" />
+      <workItem from="1727173591056" duration="2883000" />
+      <workItem from="1727259487127" duration="3193000" />
+      <workItem from="1727315103055" duration="9000" />
+      <workItem from="1727348804857" duration="3948000" />
+      <workItem from="1727354512146" duration="7067000" />
+      <workItem from="1727368317073" duration="380000" />
+      <workItem from="1727398440270" duration="11143000" />
+      <workItem from="1727426074392" duration="5109000" />
+      <workItem from="1727439045073" duration="185000" />
+      <workItem from="1727439241118" duration="1226000" />
+      <workItem from="1727441562095" duration="6662000" />
+      <workItem from="1727449931813" duration="3955000" />
+      <workItem from="1727480583724" duration="785000" />
+      <workItem from="1727482122469" duration="2169000" />
+      <workItem from="1727519807476" duration="8141000" />
+      <workItem from="1727601420929" duration="57000" />
+      <workItem from="1727602135800" duration="128000" />
+      <workItem from="1727604325616" duration="1045000" />
+      <workItem from="1727605587392" duration="1575000" />
+      <workItem from="1727611812820" duration="1562000" />
+      <workItem from="1727696326524" duration="71000" />
+      <workItem from="1727704736655" duration="6621000" />
+      <workItem from="1727711464728" duration="98000" />
+      <workItem from="1727742394001" duration="700000" />
+      <workItem from="1727743118578" duration="427000" />
+      <workItem from="1727774663055" duration="282000" />
+      <workItem from="1727781944948" duration="2222000" />
+      <workItem from="1727789161046" duration="439000" />
+      <workItem from="1727789768703" duration="254000" />
+      <workItem from="1727790093894" duration="2806000" />
+      <workItem from="1727797422364" duration="370000" />
+      <workItem from="1727864764568" duration="54000" />
+      <workItem from="1727864830292" duration="2200000" />
+      <workItem from="1727873703000" duration="1149000" />
+      <workItem from="1727875628807" duration="447000" />
+      <workItem from="1727876141108" duration="531000" />
+      <workItem from="1727886255816" duration="3685000" />
+      <workItem from="1727920749720" duration="2224000" />
+      <workItem from="1727923060168" duration="7047000" />
+      <workItem from="1728014966503" duration="8663000" />
+      <workItem from="1728110163905" duration="11596000" />
+      <workItem from="1728131728458" duration="608000" />
+      <workItem from="1728225618937" duration="615000" />
+      <workItem from="1728317589514" duration="3384000" />
+      <workItem from="1728351778417" duration="3019000" />
+      <workItem from="1728357999854" duration="3429000" />
+      <workItem from="1728362518776" duration="949000" />
+      <workItem from="1728369329626" duration="20000" />
+      <workItem from="1728374909193" duration="20339000" />
+      <workItem from="1728405431164" duration="129000" />
+      <workItem from="1728470744633" duration="8498000" />
+      <workItem from="1728485822657" duration="1187000" />
+      <workItem from="1728523722407" duration="1030000" />
+      <workItem from="1728550278535" duration="4850000" />
+      <workItem from="1728566252104" duration="7694000" />
+      <workItem from="1728578051374" duration="2164000" />
+      <workItem from="1728608704948" duration="2772000" />
+      <workItem from="1728622820189" duration="4520000" />
+      <workItem from="1728635231290" duration="5948000" />
+      <workItem from="1728650494361" duration="4478000" />
+      <workItem from="1728656915902" duration="1287000" />
+      <workItem from="1728664455455" duration="1810000" />
+      <workItem from="1728717281088" duration="3871000" />
+      <workItem from="1728734460718" duration="12957000" />
+      <workItem from="1728756433627" duration="305000" />
+      <workItem from="1728784905172" duration="159000" />
+      <workItem from="1728786118110" duration="1921000" />
+      <workItem from="1728790165119" duration="51000" />
+      <workItem from="1728791213460" duration="72000" />
+      <workItem from="1728792091819" duration="2000" />
+      <workItem from="1728792101450" duration="44000" />
+      <workItem from="1728794996431" duration="220000" />
+      <workItem from="1728795320029" duration="517000" />
+      <workItem from="1728795880351" duration="226000" />
+      <workItem from="1728796189087" duration="991000" />
+      <workItem from="1728797215614" duration="2334000" />
+    </task>
+    <task id="LOCAL-00001" summary="file processing">
+      <option name="closed" value="true" />
+      <created>1728790194165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728790194165</updated>
+    </task>
+    <task id="LOCAL-00002" summary="file processing">
+      <option name="closed" value="true" />
+      <created>1728790207489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728790207489</updated>
+    </task>
+    <task id="LOCAL-00003" summary="file processing">
+      <option name="closed" value="true" />
+      <created>1728791224355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728791224355</updated>
+    </task>
+    <task id="LOCAL-00004" summary="file processing">
+      <option name="closed" value="true" />
+      <created>1728795063417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728795063417</updated>
+    </task>
+    <task id="LOCAL-00005" summary="file processing">
+      <option name="closed" value="true" />
+      <created>1728795140446</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728795140446</updated>
+    </task>
+    <task id="LOCAL-00006" summary="file processing">
+      <option name="closed" value="true" />
+      <created>1728795906223</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728795906224</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="file processing" />
+    <option name="LAST_COMMIT_MESSAGE" value="file processing" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fileProcessing$constantSpaces.coverage" NAME="constantSpaces 覆盖结果" MODIFIED="1727428926802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tempConstant" />
+    <SUITE FILE_PATH="coverage/2_2024_09_30_json$constantSpaces.coverage" NAME="constantSpaces 覆盖结果" MODIFIED="1727924945474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tempConstant" />
+    <SUITE FILE_PATH="coverage/fileProcessing$__init__.coverage" NAME="__init__ 覆盖结果" MODIFIED="1728798712998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tempConstant" />
+    <SUITE FILE_PATH="coverage/2_2024_09_30_json$basicFileProcessing.coverage" NAME="basicFileProcessing 覆盖结果" MODIFIED="1728740336738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dependency" />
+    <SUITE FILE_PATH="coverage/2_2024_09_30_json$main.coverage" NAME="main 覆盖结果" MODIFIED="1728787477061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fileProcessing$moduleIntegration.coverage" NAME="moduleIntegration 覆盖结果" MODIFIED="1726485470601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dependency" />
+    <SUITE FILE_PATH="coverage/fileProcessing$basicFileProcessing.coverage" NAME="basicFileProcessing 覆盖结果" MODIFIED="1727711229287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dependency" />
+    <SUITE FILE_PATH="coverage/2_2024_09_30_json$__init__.coverage" NAME="__init__ 覆盖结果" MODIFIED="1727936748075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tempConstant" />
+    <SUITE FILE_PATH="coverage/fileProcessing$main.coverage" NAME="main 覆盖结果" MODIFIED="1728799328961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
